@@ -1,6 +1,8 @@
 # Brain_Tumor_Detection
 Brain_Tumor_Detection_Using CNN Architecture 
 
+### Dataset:- https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
 A brain tumor is a mass or growth of abnormal cells in your brain.
 
 Many different types of brain tumors exist. Some brain tumors are noncancerous (benign), and some brain tumors are cancerous (malignant). Brain tumors can begin in your brain (primary brain tumors), or cancer can begin in other parts of your body and spread to your brain (secondary, or metastatic, brain tumors).
